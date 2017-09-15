@@ -53,59 +53,63 @@
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
-    "title" : "General Partner"
+    "title" : "Colaboradores en General"
   } ],
   "schedule" : [ {
-    "date" : "2016-09-09",
-    "dateReadable" : "September 9",
+    "date" : "2017-11-6",
+    "dateReadable" : "Noviembre 6",
     "timeslots" : [ {
-      "endTime" : "10:00",
-      "sessions" : [ [ 135 ] ],
-      "startTime" : "09:00"
+      "endTime" : "17:50",
+      "sessions" : [ [ 114 ], [ 140 ],[141] ],
+      "startTime" : "17:00"
     }, {
-      "endTime" : "10:15",
-      "sessions" : [ [ 114 ] ],
-      "startTime" : "10:00"
+      "endTime" : "18:50",
+      "sessions" : [ [ 114 ], [ 140 ],[141] ],
+      "startTime" : "18:00"
     },{
-      "endTime" : "10:50",
-      "sessions" : [ [ 114 ], [ 114 ] ,[114]],
-      "startTime" : "10:10"
+      "endTime" : "20:00",
+      "sessions" : [ [ 114 ], [ 140 ],[141] ],
+      "startTime" : "19:00"
+    },{
+      "endTime" : "21:00",
+      "sessions" : [ [ 109 ], [ 114 ] ,[114]],
+      "startTime" : "20:00"
     }],
     "tracks" : [ {
-      "title" : "Expo hall"
+      "title" : "Auditorio Bancalari"
     }, {
-      "title" : "Conference hall"
+      "title" : "Auditorio Magna"
     }, {
-      "title" : "Workshops hall"
+      "title" : "Auditorio Magna1"
     } ]
   }, {
-    "date" : "2016-09-10",
-    "dateReadable" : "September 10",
+    "date" : "2017-11-7",
+    "dateReadable" : "Noviembre 7",
     "timeslots" : [ {
-      "endTime" : "10:10",
-      "sessions" : [ [ 135 ] ],
-      "startTime" : "09:30"
-    }, {
-      "endTime" : "10:50",
+      "endTime" : "17:50",
       "sessions" : [ [ 114 ], [ 140 ],[141] ],
-      "startTime" : "10:10"
+      "startTime" : "17:00"
     }, {
-      "endTime" : "10:30",
+      "endTime" : "18:50",
       "sessions" : [ [ 114 ], [ 140 ],[141] ],
-      "startTime" : "10:10"
-    }, {
-      "endTime" : "10:50",
+      "startTime" : "18:00"
+    },{
+      "endTime" : "20:00",
       "sessions" : [ [ 114 ], [ 140 ],[141] ],
-      "startTime" : "10:30"
+      "startTime" : "19:00"
+    },{
+      "endTime" : "21:00",
+      "sessions" : [ [ 110 ], [ 114 ] ,[114]],
+      "startTime" : "20:00"
     }],
     "tracks" : [ {
-      "title" : "Expo hall"
+      "title" : "Auditorio Bancalari"
     }, {
-      "title" : "Conference hall"
+      "title" : "Auditorio Magna"
     }, {
-      "title" : "Workshops hall"
+      "title" : "Auditorio Magna1"
     } ]
-  } ],
+  }  ],
   "sessions" : {
     "100" : {
       "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
@@ -183,24 +187,24 @@
       "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
       "id" : 109,
       "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
       "title" : "I’ve been doing some syncing…"
     },
     "110" : {       
       "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
       "id" : 110,
       "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
+      "speakers" : [ 1 ],
+      "tags" : [ "IoT","Security" ],
       "title" : "I’ve been doing some syncing…"
     },
     "111" : {       
       "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
       "id" : 111,
       "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
+      "speakers" : [ 1 ],
+      "tags" : [ "IT" ],
       "title" : "I’ve been doing some syncing…"
     },
     "112" : {       
@@ -223,6 +227,172 @@
       "complexity" : "intermediate",       
       "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
       "id" : 114,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "115" : {
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 115,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "116" : {
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 116,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "117" : {
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 117,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "118" : {
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 118,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "119" : {
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 119,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "120" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 120,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "121" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 121,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "122" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 122,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "123" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 123,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "124" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 124,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "125" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 125,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "126" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 126,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "127" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 127,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "128" : {       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 128,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "129" : {
+      "complexity" : "intermediate",       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 129,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "130" : {
+      "complexity" : "intermediate",       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 130,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "131" : {
+      "complexity" : "intermediate",       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 131,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "132" : {
+      "complexity" : "intermediate",       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 132,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "133" : {
+      "complexity" : "intermediate",       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 133,
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "134" : {
+      "complexity" : "intermediate",       
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "id" : 134,
       "language" : "English",
       "speakers" : [ 12 ],
       "tags" : [ "Android" ],
@@ -476,22 +646,22 @@
   } ],
   "tickets" : {
     "elements" : [ {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "info" : "Requires valid student ID",
-      "name" : "Student",
-      "price" : 500,
+      "currency" : "S/.",
+      "ends" : "Nov 4",
+      "info" : "Estudiantes y Egresados",
+      "name" : "Estudiante",
+      "price" : 200,
       "soldOut" : false,
-      "starts" : "May 1"
+      "starts" : "Sep 15"
     }, {
-      "currency" : "₴",
-      "ends" : "July 1",
-      "info" : "Or first 100 tickets",
-      "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
+      "currency" : "S/.",
+      "ends" : "Nov 4",
+      "info" : "Público en general",
+      "name" : "General",
+      "price" : 300,
+      "soldOut" : false,
+      "starts" : "Sep 15"
     }],
-    "url" : "http://2event.com/events/630032"
+    "url" : "https:/goo.gl/ceqpYj"
   }
 }

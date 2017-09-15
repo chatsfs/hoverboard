@@ -167,7 +167,7 @@
       <div class="footer-content">
         <iron-image
           class="gdg-logo"
-          src="/images/gdg-logo.svg"
+          src="/images/logo-upc.png"
           sizing="contain"
           alt="{$ organizer.name $}"
         ></iron-image>
@@ -206,15 +206,6 @@
                 </a>
               {% endfor %}
             </div>
-          </div>
-          <div class="subscribe">
-            <div class="link-block-title">{$ subscribe $}</div>
-            <span>{$ subscribeNote $}</span>
-            <mailchimp-subscribe
-              app="[[app]]"
-              url="{$ mailchimp.url $}"
-              name="{$ mailchimp.name $}"
-            ></mailchimp-subscribe>
           </div>
         </nav>
       </div>

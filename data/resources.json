@@ -8,11 +8,11 @@
   "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
   "buyTicket": "COMPRA TU ENTRADA",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
+  "backToTop": "Volver arriba",
+  "subscribe": "Suscribete",
+  "yourEmail": "Tu correo",
   "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
+  "contactUs": "Contáctanos",
   "ticketsTitle": "Tickets",
   "ticketsDetails": "Las entradas incluiran acceso a todos los talleres y conferencias que se brindarán, así como acceso a las cafeterías. La alimentación, alojamiento o transporte no están incluídas.",
   "close": "Close",
@@ -21,20 +21,20 @@
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
   "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
+  "partners": "Colaboradores",
   "becomePartner": "Become a partner",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Ponentes Internacionales",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
   "locationTitle": "Universidad Peruana de Ciencias Aplicadas",
   "locationDescription": "La Universidad Peruana de Ciencias Aplicadas es una universidad privada fundada el 5 de enero de 1994 y ubicada en la ciudad de Lima",
   "locationAddress": "Prolongación Primavera 2390",
-  "organizerTitle": "Organizer",
+  "organizerTitle": "Organizador",
   "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
+  "whatIsGdg": "Qué es EISC?",
   "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
   "readMore": "Read more",
   "copyLink": "Copy link",
@@ -59,36 +59,6 @@
   "addedToSchedule": "Added to My Schedule",
   "rateSession": "Rate session",
   "footerBlocks": [
-    {
-      "title": "Para el público",
-      "links": [
-        {
-          "text": "Code of Conduct",
-          "url": "/cod/",
-          "newTab": false
-        },
-        {
-          "text": "Google Developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Para Socios",
-      "links": [
-        {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
-        }
-      ]
-    }
   ],
   "contactBlock": {
     "links": [
@@ -108,7 +78,7 @@
       "caption": "Días"
     },
     {
-      "counter": 30,
+      "counter": 36,
       "caption": "Sesiones"
     },
     {
